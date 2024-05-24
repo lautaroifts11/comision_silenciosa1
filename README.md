@@ -5,9 +5,13 @@ INSTALAR GIT
 iniciar sesion
 
 SOLO LA PRIMERA VEZ
+
+
 1 -Creo o encuentro un repositorio
 2 - git clone url
+
 ------------------------------------------
+
 ESTE ES MI DIA A DIA SI TRABAJO SOLO
 
 2.1 - git pull
@@ -19,5 +23,6 @@ ESTE ES MI DIA A DIA SI TRABAJO SOLO
 
 --Y AL FINAL DEL DIA
 6- git push origin master
+
 ------------------------------------------
 
